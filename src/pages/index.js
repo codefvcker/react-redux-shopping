@@ -1,3 +1,3 @@
 export { About } from "./About";
-export { Cart } from "./Cart";
-export { Main } from "./Main";
+// export { Cart } from "./Cart";
+// export { Main } from "./Main";

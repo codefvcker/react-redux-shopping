@@ -1,0 +1,22 @@
+.card {
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    &__image-wrap {
+        height: 50%;
+        background-color: gray;
+    }
+    &__content-wrap {
+        height: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    &__image {
+        height: 100%;
+        width: 100%;
+    }
+}
